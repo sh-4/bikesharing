@@ -43,3 +43,9 @@ In order to keep the bikes in the best condition for the customers, the bike rep
 ![trips-by-weekday](https://user-images.githubusercontent.com/105808695/188295490-9e6ae6c3-d2c7-4f84-ac7c-be9d470a9564.png)
 
 ## Summary:
+
+The Citi Bike program appears to be popular for shorter commutes. It appears to be popular enough for people to subscribe to, rather than just to use on occasion. There is potential that bringing a Citi Bike program to Des Moines could not only benefit the people who live there by lowering their carbon footprint and increasing physical activity, but it could also be an exciting way to introduce visitors to the city on a more personal level.
+
+#### Further Considerations:
+
+To gain more insight into the effectiveness of the program, it could be good to look at visualizations comparing the different months of the year to see how well it fares in other seasons. August seems to be a productive month, but is the program benefitting throughout the colder winter months? Additionally, it could be good to get a look at the weather data compared to customer usage. Are the bikes only being used on perfect, sunny days, or do customers still use them when it’s windy or lightly drizzling?
